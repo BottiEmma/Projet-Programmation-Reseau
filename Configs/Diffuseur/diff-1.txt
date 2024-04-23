@@ -1,0 +1,13 @@
+DIFFONE
+225.10.25.40
+4647
+3839
+127.0.0.1
+6465
+
+ligne 1: id du diffuseur sur 8 caractères
+ligne 2 : adresse ip de multidiffusion
+ligne 3: port de multi-diffusion
+ligne 4: port de réception TCP
+ligne 5: adresse ip du gestionnaire
+ligne 6: port du gestionnaire
